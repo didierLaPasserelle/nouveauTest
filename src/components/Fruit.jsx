@@ -12,5 +12,4 @@ export default function Fruit() {
         <p>gg</p>
       </div>
     </>
-  );
-}
+  )}
