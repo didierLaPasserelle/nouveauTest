@@ -2,6 +2,5 @@ import React from 'react'
 
 export default function Fruit() {
   return (
-    <div>Fruit</div>
-  )
+<h1>reprise</h1>  )
 }
