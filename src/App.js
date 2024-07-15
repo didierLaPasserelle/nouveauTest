@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import Fruit from './components/Fruit';
 
 function App() {
   return (
-    "didier"
+    <Fruit />
   );
 }
 
